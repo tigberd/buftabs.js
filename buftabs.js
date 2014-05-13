@@ -148,7 +148,7 @@ buftabs = {
     // Create the horizontal box for adding the tabs to
     createBar: function()
     {
-        var addonbar = document.getElementById("addon-bar");
+        var addonbar = document.getElementById("GiT-addon-bar");
         var buftabs = document.getElementById("liberator-statusline-buftabs");
         // Only create if it doesn't exist yet
         if (!buftabs)
