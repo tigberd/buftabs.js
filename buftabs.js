@@ -108,7 +108,6 @@ buftabs = {
 
         // Empty url label
         statusline.updateField("location","");
-        liberator.echo(buffer.URL,2);
     },
 
     // Fill a label with browser content
